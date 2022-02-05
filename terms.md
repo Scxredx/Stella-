@@ -5,6 +5,7 @@
 	2. Be legally permitted to use Discord by the laws of your home country
 
 - Rules
+
 	In order to grant the best usage for everyone, you must not:
 
 	use our application to harass other users
@@ -26,6 +27,7 @@
 	If you or your guild have been restricted by us, you are allowed to contact us by mailing(support@StellaBot.de) or dm Devid#6969 on Discord. We will look into it.
 
 - Data Management
+
 	If your application access has not been restricted, you have permissions of managing your data:
 
 	change them by yourself using given commands
@@ -34,10 +36,13 @@
 	When your case is not listed here, you may contact the support: Devid#6969
 
 - Validity
+
 	These Terms of Service apply anywhere, where you are using our services, starting 05.02.2022. We reserve us the right to update these Terms, to keep them updated with any changes regarding our applicaiton, changes from Discord, and other changes that may require an update of the Terms.
 
 - Discord
+
 	The Discord terms of service apply to these as well. We are not affiliated with Discord, however our application has been certified "Verified" by Discord, to help users see that our application is trusted. We want to clarify, that a verified application does not always represent a safe application. You should always take care of yourself when using services in the internet, including Discord.
 
 - Consent
+
 	By using ours services, you hereby agree with our Terms and agree and that you stick to them and may use your mind when using our and Discords services, to avoid trouble that may harm us, including you or other users.
