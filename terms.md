@@ -1,23 +1,21 @@
 Usage
-In order to use our services you must:
+To use our services you must:
 
-1. be older than 13 years
-2. be legally permitted to use Discord by the laws of your home country
+1. Be older than 13 years
+2. Be legally permitted to use Discord by the laws of your home country
 
 Rules
 In order to grant the best usage for everyone, you must not:
 
 use our application to harass other users
-use multiple application commands ("commands") in a short amount of time ("spam")
+use multiple application commands in a short amount of time "spam"
 break your agreement with the Discord Terms of Service and this Terms of Service
 abuse the application in any way
 break the rules of guilds that do not belong to you
-invite the application in too many guilds owned by you ("inorganic growth")
+invite the application in too many guilds owned by you "inorganic growth"
 manipulate or try to manipulate our application to harm it
 attack or harm our services in any way
-advertise our application as yours and offer it and its services
-We also ask you to use our application for general purposes and not for any illegal activities, including searching illegal activities, testing them, or offering them. Your guild may be banned if anything like that has been detected.
-
+advertise our application as yours and offer its services
 Restriction
 We're reserving us the right of restricting your access to our application, without giving a reason. If your access is restricted, you are not eligible to:
 
